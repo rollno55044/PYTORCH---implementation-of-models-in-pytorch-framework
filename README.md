@@ -29,4 +29,4 @@ Image Captioning (CNN-RNN)
 4. Utilities
 TensorBoard in PyTorch
 
-##Thank You
+## Thank You
